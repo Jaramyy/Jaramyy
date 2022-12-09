@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ## Research Interest
 > 🔹 Learning base navigation 
 > 🔹 Perception Awareness
+> 🔹 UAV 
+> 🔹 Quadruped robot
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaramyy)](https://github.com/anuraghazra/github-readme-stats)
+[![Jame's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaramyy)](https://github.com/anuraghazra/github-readme-stats)
 
 
