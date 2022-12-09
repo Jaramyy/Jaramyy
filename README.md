@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Education 
+### Education 
 > 🔹 **BEng in Electrical** from King Mongkut's University of Technology North Bangkok (KMUTNB), Bangkok, Thailand (2018 - 2022)  
 
-## Research Interest
+### Research Interest
 > 🔹 Learning base navigation 
 > 🔹 Perception Awareness
 > 🔹 UAV 
