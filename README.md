@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Education 
-> 🔹 **BEng in Electrical ** from King Mongkut's University of Technology North Bangkok (KMUTNB), Bangkok, Thailand (2018 - 2022)  
+> 🔹 **BEng in Electrical** from King Mongkut's University of Technology North Bangkok (KMUTNB), Bangkok, Thailand (2018 - 2022)  
 
 ## Research Interest
 
