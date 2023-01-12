@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 > 🔹 Quadruped robot
 > 🔹 Control
 
-[![Jame's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaramyy)](https://github.com/anuraghazra/github-readme-stats)
+[![Jame's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaramyy)](https://github.com/anuraghazra/github-readme-stats)
 
 
