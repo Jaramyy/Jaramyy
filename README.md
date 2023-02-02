@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ### Research Interest
 > 🔹 Learning base navigation 
-> 🔹 Perception Awareness
 > 🔹 UAV 
 > 🔹 Quadruped robot
 > 🔹 Control
