@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Education 
-> 🔹 **BEng in Electrical engineering** from King Mongkut's University of Technology North Bangkok (KMUTNB), Bangkok, Thailand (2018 - 2022)  
+> 🔹 **BEng in Electrical engineering** from King Mongkut's University of Technology North Bangkok (KMUTNB), Thailand (2018 - 2022)  
+<!-- > 🔹 **MEng in Information science technology** from VISTEC, Thailand (2022 - Present) -->
 
 ### Research Interest
 > 🔹 Learning base navigation 
