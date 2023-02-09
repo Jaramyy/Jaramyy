@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ### Education 
 > 🔹 **BEng in Electrical engineering** from King Mongkut's University of Technology North Bangkok (KMUTNB), Thailand (2018 - 2022)  
-> 🔹 I am currently master student at Information science technology,VISTEC, Thailand
+> 🔹 I am currently a Master student at Information science technology(IST), [VISTEC](https://www.vistec.ac.th/ , Thailand
 
 ### Research Interest
 > 🔹 Learning base navigation 
 > 🔹 UAV 
 > 🔹 Quadruped robot
-> 🔹 Control
+> 🔹 Control learning base 
 
 [![Jame's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaramyy)](https://github.com/anuraghazra/github-readme-stats)
 
