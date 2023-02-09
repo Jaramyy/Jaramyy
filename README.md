@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Education 
 > 🔹 **BEng in Electrical engineering** from King Mongkut's University of Technology North Bangkok (KMUTNB), Thailand (2018 - 2022)  
-<!-- > 🔹 **MEng in Information science technology** from VISTEC, Thailand (2022 - Present) -->
+> 🔹 I am currently master student at Information science technology,VISTEC, Thailand
 
 ### Research Interest
 > 🔹 Learning base navigation 
