@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 > 🔹 I graduated with BEng in Electrical engineering from King Mongkut's University of Technology North Bangkok (KMUTNB), Thailand (2018 - 2022)  
 
 ### Research Interest
-> 🔹 Learning base navigation 
-> 🔹 Unmanned Aerial Vehicle
-> 🔹 Reinforcement learning
-> 🔹 Obstacle avoidance, Exploration
-> 🔹 Quadruped robot
-> 🔹 Control 
+🔹 Learning base navigation 
+🔹 Unmanned Aerial Vehicle
+🔹 Reinforcement learning
+🔹 Obstacle avoidance, Exploration
+🔹 Quadruped robot
+🔹 Control 
 
 [![Jame's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaramyy)](https://github.com/anuraghazra/github-readme-stats)
 
