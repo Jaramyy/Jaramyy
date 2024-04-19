@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Education 
+### 🌱 Education 
 > 🔹 I am currently a Master student at **Information science technology(IST)**, [VISTEC](https://brain.vistec.ac.th/), Thailand.                       
 > 🔹 I graduated with BEng in Electrical engineering from King Mongkut's University of Technology North Bangkok (KMUTNB), Thailand (2018 - 2022)  
 
